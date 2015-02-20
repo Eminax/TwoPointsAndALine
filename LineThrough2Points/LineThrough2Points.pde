@@ -1,3 +1,4 @@
+// Emina's version
 // Global variable declaration
 
 // change these values to change the values covered by each axis
