@@ -1,4 +1,3 @@
-// Emina's version
 // Global variable declaration
 
 // change these values to change the values covered by each axis
@@ -60,7 +59,7 @@ void drawLine(){
   // first, use the x and y values of your two
   // points to calculate global floats m and c
   // as the slope and x-intercept of your function
- 
+ m=(y2-y1)/(x2-x1);
   
   // now display the line representing the equation
   // across the whole width of the screen
